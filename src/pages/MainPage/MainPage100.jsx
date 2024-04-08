@@ -25,7 +25,7 @@ const MainPage = () => {
     {
       id: 1,
       title: "Direct",
-      text: "Buy",
+      text: "Sell",
     },
     {
       id: 2,

@@ -1,0 +1,20 @@
+@import "../../../styles/var";
+.fourTitle {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+@media (max-width: 480px) {
+    .fourTitle {
+        margin-bottom: 20px;
+    }
+}
+
+.fourImg img {
+    height: auto;
+    width: 100%;
+    mix-blend-mode: darken;
+}
+.four {
+    padding-bottom: 120px;
+}

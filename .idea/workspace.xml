@@ -6,27 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="a5817da3-10ad-468b-ae65-110dedbed0ad" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/locales/cz/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/locales/cz/translation.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/locales/de/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/locales/de/translation.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/locales/en/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/locales/en/translation.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/locales/es/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/locales/es/translation.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/locales/fr/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/locales/fr/translation.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/locales/it/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/locales/it/translation.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/locales/pl/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/locales/pl/translation.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/locales/ro/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/locales/ro/translation.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/locales/ru/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/locales/ru/translation.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/preview.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/preview.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/1/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/1/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/2/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/2/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/2/1_mob.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/2/1_mob.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/4/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/4/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/img/5/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/img/5/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/MainPage/First/First.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MainPage/First/First.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/MainPage/Second/Second.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MainPage/Second/Second.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/_global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/_global.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/MainPage/MainPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/MainPage/MainPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/MainPage/MainPage100.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/MainPage/MainPage100.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/MainPage/MainPage30.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/MainPage/MainPage30.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/MainPage/MainPage50.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/MainPage/MainPage50.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +58,7 @@
       <workItem from="1700495277479" duration="3149000" />
       <workItem from="1700498506073" duration="429000" />
       <workItem from="1712579972117" duration="2430000" />
+      <workItem from="1712583088197" duration="955000" />
     </task>
     <servers />
   </component>

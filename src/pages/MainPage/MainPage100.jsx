@@ -12,12 +12,12 @@ const MainPage = () => {
     {
       id: 1,
       img: desk1,
-      item1: "Buy",
-      item2: "15 Lot",
-      item3: "82 000",
-      item4: "219",
-      item5: "270",
-      item6: "122 000$",
+      item1: "Sell",
+      item2: "50 Lot",
+      item3: "85 000",
+      item4: "175",
+      item5: "139",
+      item6: "155 000$",
     },
   ];
 
@@ -59,7 +59,7 @@ const MainPage = () => {
   return (
     <div className={[classes.main, "bg"].join(" ")}>
       <Header />
-      <First ammount={"100 000 $"} profit={"122% "} term={"10"} />
+      <First ammount={"100 000 $"} profit={"155% "} term={"14"} />
       <Second />
       <Three deskTables={deskTables} mobTables={mobTables} />
       <Four title="Tesla Inc."/>

@@ -6,10 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a5817da3-10ad-468b-ae65-110dedbed0ad" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/MainPage/MainPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/MainPage/MainPage.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/MainPage/MainPage100.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/MainPage/MainPage100.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/MainPage/MainPage30.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/MainPage/MainPage30.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/MainPage/MainPage50.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/MainPage/MainPage50.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/locales/de/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/locales/de/translation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MainPage/First/First.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MainPage/First/First.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +43,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="first_sub_text1" />
+    </option>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,6 +62,7 @@
       <workItem from="1700498506073" duration="429000" />
       <workItem from="1712579972117" duration="2430000" />
       <workItem from="1712583088197" duration="955000" />
+      <workItem from="1712683393709" duration="840000" />
     </task>
     <servers />
   </component>

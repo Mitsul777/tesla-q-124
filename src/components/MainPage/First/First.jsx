@@ -139,6 +139,9 @@ const First = (props) => {
             <p className={[classes.firstSubBlockText, "font-20"].join(" ")}>
               {t("first_sub_text1")}
             </p>
+            <p className={[classes.firstSubBlockText, "font-20"].join(" ")}>
+              {t("first_sub_text11")}
+            </p>
           </div>
         </div>
       </div>
